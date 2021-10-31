@@ -1,0 +1,15 @@
+.CartItem {
+  /* background-color: blue; */
+  display: flex;
+  margin: 0 0 5px 0;
+  /* padding: 10px 20px; */
+}
+.CartItem img {
+  width: 30px;
+  height: 30px;
+  object-fit: cover;
+  border-radius: 5px;
+}
+.CartItem span {
+  display: block;
+}
